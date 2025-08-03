@@ -67,8 +67,7 @@ export default function Home() {
                   Hi, I&apos;m Abhishek 👋
                 </h1>
                 <p className="text-gray-300 mt-2 max-w-xl">
-                  A passionate Frontend Developer skilled in React, Next.js, Tailwind CSS, TypeScript, Firebase & MongoDB.
-                  Currently a Full Stack Intern at Auribesis.
+                 A passionate Frontend Developer skilled in React, Next.js, Tailwind CSS, TypeScript, Firebase & MongoDB. Recently completed a Full Stack Internship at Auribesis.
                 </p>
 
                 {/* Buttons */}
@@ -92,7 +91,7 @@ export default function Home() {
 
                 {/* Resume Download */}
                 <a
-                  href="/abhi resume.pdf"
+                  href="/PK.pdf"
                   download
                   className="mt-6 inline-block text-blue-400 underline hover:text-blue-300"
                 >

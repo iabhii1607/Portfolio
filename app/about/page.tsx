@@ -11,8 +11,9 @@ export default function About() {
           Hi, I&apos;m a passionate full-stack web developer with a strong focus on building clean, scalable, and user-friendly applications. I specialize in technologies like <strong>React</strong>, <strong>Next.js</strong>, <strong>JavaScript</strong>, <strong>TypeScript</strong>, <strong>Tailwind CSS</strong>, <strong>Firebase</strong>, and <strong>MongoDB</strong>.
         </p>
         <p className="text-lg text-gray-700 mb-4">
-          I&apos;m currently doing my internship at <strong>Auribesis</strong> as a Full Stack Developer, where I&apos;m gaining hands-on experience in building robust web applications from scratch.
-        </p>
+  I recently completed my internship at <strong>Auribesis</strong> as a Full Stack Developer, where I gained hands-on experience in building robust web applications from scratch. I&apos;m now actively exploring opportunities in both web development and cybersecurity.
+</p>
+
         <p className="text-lg text-gray-700 mb-4">
           I completed my 10th and 12th from <strong>Kendriya Vidyalaya No.1, RCF Hussainpur, Kapurthala, Punjab</strong>. Currently, I&apos;m in the final year of my graduation, pursuing a degree in <strong>Computer Science & Engineering</strong> from <strong>Guru Nanak Dev Engineering College, Ludhiana</strong>.
         </p>
